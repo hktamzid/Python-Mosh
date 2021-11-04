@@ -1,9 +1,9 @@
-name = "Tamzid Mahmud"
-roll = "20MH1A0536"
-reg = "12345"
-name2 = "Sompa Akter"
-roll2 = "20MH1A0503"
-reg2 = "54321"
+name = input("Enter your name: ")
+roll = input("Enter your roll Number:")
+reg = input("Enter your reg: ")
+name2 = input("Enter Your Name: ")
+roll2 = input("Enter your roll Number: ")
+reg2 = input("Enter your reg: ")
 
 print("Student Information")
 print("-------------------")
